@@ -1,5 +1,4 @@
 # Personal-Assistant
-Big Python Project. 
 
 for more information --> open Description.pdf(in english) or Erklärung.pdf(deutsche Version)
 
